@@ -163,7 +163,8 @@
   증빙자료 카톡방에 보내기 (증빙자료 없으면 인정 xx)
 
 ---
-
+**참고)지난스터디 
+https://github.com/gpdbs9409/Algorithm-study
 ---
 
 # 참고 변수명 짓기 아이디어
