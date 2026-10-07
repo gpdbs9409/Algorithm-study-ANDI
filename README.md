@@ -1,6 +1,5 @@
 # Algorithm-study-ANDI
 
-# 💯 Algorithm Study
 
 꾸준한 알고리즘 문제 풀이와 풀이 과정 공유를 통해
 문제 해결 능력을 향상시키는 것을 목표로 합니다.
