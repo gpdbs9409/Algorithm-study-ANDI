@@ -82,4 +82,36 @@ a, b의 대표값을 찾는다.
 이미 대표값이 동일하다면 같은 그룹에 속해 있으므로 별도로 연결할 필요가 없다.
 
 ---
-대표예제 네트워크 
+대표예제 
+
+백준 집합 표현하기 
+
+
+```python
+#parent배열선언
+parents=[]
+
+for i in range(len(nodes))
+    parent.append(i)
+
+
+#union함수 구현 >parent를 합침 
+def union(a,b):
+    a=find(a)
+    b=find(b)
+    if a!=b:
+        parent[b]=a
+#find함수 구현 
+    
+    
+
+
+1.문자열을 공백단위로 split한다 . 
+for command in commands:
+    command.split()
+     #0으로 시작하면 union 해서 합함 
+    if command[0]=0:
+        union
+
+    #1로 시작하면 find해서 두 노드가 동일한 parent를 가졌는지 확인함 
+```
