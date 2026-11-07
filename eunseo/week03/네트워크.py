@@ -1,4 +1,8 @@
+## 방문한 컴퓨터를 전부 표시
+
 from collections import deque
+
+
 def solution(n, computers):
     v = [0]*n
     net = 0

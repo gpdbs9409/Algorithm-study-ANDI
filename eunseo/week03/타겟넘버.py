@@ -1,3 +1,5 @@
+# 모든 경우의 수 세기
+
 from collections import deque
 
 def solution(numbers, target):
