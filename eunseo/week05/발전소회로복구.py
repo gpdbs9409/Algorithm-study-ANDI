@@ -63,5 +63,3 @@ def solution(h, grid, panels, seqs):
 
     return min(dp[full])
 
-
-
